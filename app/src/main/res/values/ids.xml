@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tilEmail" type="id" />
+    <item name="tilAsunto" type="id" />
+    <item name="tilMensaje" type="id" />
+    <item name="boton_enviar" type="id" />
+</resources>
